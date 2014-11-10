@@ -27,7 +27,7 @@ abstract class qtype_correctwriting_abstract_analyzer {
      * Language object - contains scaner, parser etc.
      * @var block_formal_langs_abstract_language child classes.
      */
-    protected $language;
+    protected $lng;
 
     /**
      * String pair, passed as input data for the analyzer.
