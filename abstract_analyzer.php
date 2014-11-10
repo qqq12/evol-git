@@ -35,17 +35,6 @@ abstract class qtype_correctwriting_abstract_analyzer {
      */
     protected $basestringpair;
 
-
-    /**
-     * Best (judging by fitness) string pairs generated as result of analyzer's work.
-     *
-     * Analyzer should return several string pairs only if they are equivalent from it's point of view.
-     * An empty array means error, that don't allow subsequent analyzers to work.
-     * @var array of qtype_correctwriting_string_pair 
-     */
-    protected $resultstringpairs = array();
-
-
     /**
      * Returns analyzer internal name, which can be used as an argument to get_string().
      */
