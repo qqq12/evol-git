@@ -14,6 +14,9 @@
 // You should have received a copy of the GNU General Public License
 // along with CorrectWriting.  If not, see <http://www.gnu.org/licenses/>.
 
+/**
+Change to master
+*/
 
 /**
  * Defines class of abstract analyzer for correct writing question.
