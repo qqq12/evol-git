@@ -57,7 +57,10 @@ abstract class qtype_correctwriting_abstract_analyzer {
      */
     protected $basestringpair;
 
-
+ /**
+Change to branch and master
+*/
+	
     /**
      * Best (judging by fitness) string pairs generated as result of analyzer's work.
      *
